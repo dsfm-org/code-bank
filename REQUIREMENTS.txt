@@ -24,7 +24,7 @@ scipy==1.4.1
 seaborn==0.10.0
 shap==0.36.0
 spacy==2.2.4
-tensorflow==2.1.0
+tensorflow==2.4.0
 tmap==1.2.1
 tqdm==4.45.0
 wordcloud==1.6.0
